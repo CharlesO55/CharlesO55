@@ -2,20 +2,20 @@
   <summary><h2>Projects</h2></summary>
   
   <h3>Data Science</h3>
-
-  <a href="https://github.com/CharlesO55/GDENG03">
-  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=GDENG03"/>
-  </a>
-  <a href="https://github.com/CharlesO55/GDENG03">
-  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=GDENG03"/>
-  </a>
   
+  <p align="left">
+    <a href="https://github.com/CharlesO55/MCHLRN-MusicGenre_Classifiers"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=MCHLRN-MusicGenre_Classifiers&theme=react&hide_border=true" alt="MCHLRN-MusicGenre_Classifiers"></a>
+    <a href="https://github.com/CharlesO55/DATA101-Dashboard_WebApp"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=DATA101-Dashboard_WebApp&theme=react&hide_border=true" alt="DATA101-Dashboard_WebApp"></a>
+    <a href="https://github.com/dovodv/Predicting-MRT-3-Ridership-through-Machine-Learning"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dovodv&repo=Predicting-MRT-3-Ridership-through-Machine-Learning&theme=react&hide_border=true" alt="Predicting-MRT-3-Ridership-through-Machine-Learning"></a>
+  </p>
 </details>
 
-<details>
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+  <a href="https://github.com/CharlesO55?tab=repositories&"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
+
+<details>
+  <summary><h2>Skills & Tools</h2></summary>
+  
   <h3>Languages</h3>
 
   <p>
@@ -30,13 +30,16 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>        
+  </p>
     
   <h3>Libraries</h3>
-  </p>
+  
+  <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>    
-
+  </p>
+  
   <h3>Software and Tools</h3>
 
   <p>
@@ -50,6 +53,7 @@
   </p>
   
 </details>
+
 <details> 
   <summary><h2>Activity</h2></summary>
 
