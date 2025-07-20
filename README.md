@@ -1,16 +1,33 @@
 <details open>
   <summary><h2>Projects</h2></summary>
+
+  <details>
+    <summary><h3>Data Science</h3></summary>
+      <p align="left">
+        <a href="https://github.com/CharlesO55/MCHLRN-MusicGenre_Classifiers"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=MCHLRN-MusicGenre_Classifiers&theme=react&hide_border=true" alt="MCHLRN-MusicGenre_Classifiers"></a>
+        <a href="https://github.com/CharlesO55/DATA101-Dashboard_WebApp"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=DATA101-Dashboard_WebApp&theme=react&hide_border=true" alt="DATA101-Dashboard_WebApp"></a>
+        <a href="https://github.com/dovodv/Predicting-MRT-3-Ridership-through-Machine-Learning"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dovodv&repo=Predicting-MRT-3-Ridership-through-Machine-Learning&theme=react&hide_border=true" alt="Predicting-MRT-3-Ridership-through-Machine-Learning"></a>
+      </p>
+  </details>
+
+
+  <details>
+    <summary><h3>Game Systems and AI</h3></summary>
+      <p align="left">
+        <a href="https://github.com/CharlesO55/GDAPDEV-Mobile_RPG"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=GDAPDEV-Mobile_RPG&theme=react&hide_border=true" alt="GDAPDEV-Mobile_RPG"></a>
+      </p>
+  </details>
+
+  <details>
+    <summary><h3>Software</h3></summary>
+      <p align="left">
+        <a href="https://github.com/CharlesO55/GDINFMG_GenshinDatabase"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=GDINFMG_GenshinDatabase&theme=react&hide_border=true" alt="GDINFMG_GenshinDatabase"></a>
+      </p>
+  </details>
   
-  <h3>Data Science</h3>
-  
-  <p align="left">
-    <a href="https://github.com/CharlesO55/MCHLRN-MusicGenre_Classifiers"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=MCHLRN-MusicGenre_Classifiers&theme=react&hide_border=true" alt="MCHLRN-MusicGenre_Classifiers"></a>
-    <a href="https://github.com/CharlesO55/DATA101-Dashboard_WebApp"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=DATA101-Dashboard_WebApp&theme=react&hide_border=true" alt="DATA101-Dashboard_WebApp"></a>
-    <a href="https://github.com/dovodv/Predicting-MRT-3-Ridership-through-Machine-Learning"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dovodv&repo=Predicting-MRT-3-Ridership-through-Machine-Learning&theme=react&hide_border=true" alt="Predicting-MRT-3-Ridership-through-Machine-Learning"></a>
-  </p>
 </details>
 
-  <a href="https://github.com/CharlesO55?tab=repositories&"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/CharlesO55?tab=repositories&"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 
 <details>
