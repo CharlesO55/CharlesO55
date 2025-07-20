@@ -4,9 +4,10 @@
   <details>
     <summary><h3>Data Science</h3></summary>
       <p align="left">
-        <a href="https://github.com/CharlesO55/MCHLRN-MusicGenre_Classifiers"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=MCHLRN-MusicGenre_Classifiers&theme=react&hide_border=true" alt="MCHLRN-MusicGenre_Classifiers"></a>
-        <a href="https://github.com/CharlesO55/DATA101-Dashboard_WebApp"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=DATA101-Dashboard_WebApp&theme=react&hide_border=true" alt="DATA101-Dashboard_WebApp"></a>
+        <a href="https://github.com/CharlesO55/Music_Genre_Classifiers"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=Music_Genre_Classifiers&theme=react&hide_border=true" alt="Music_Genre_Classifiers"></a>
+        <a href="https://github.com/CharlesO55/Nationwide_Dashboard_WebApp"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=Nationwide_Dashboard_WebApp&theme=react&hide_border=true" alt="Nationwide_Dashboard_WebApp"></a>
         <a href="https://github.com/dovodv/Predicting-MRT-3-Ridership-through-Machine-Learning"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dovodv&repo=Predicting-MRT-3-Ridership-through-Machine-Learning&theme=react&hide_border=true" alt="Predicting-MRT-3-Ridership-through-Machine-Learning"></a>
+        <a href="https://github.com/CharlesO55/VA_Casting_Recommender_System"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=VA_Casting_Recommender_System&theme=react&hide_border=true" alt="VA_Casting_Recommender_System"></a>
       </p>
   </details>
 
@@ -15,6 +16,7 @@
     <summary><h3>Game Systems and AI</h3></summary>
       <p align="left">
         <a href="https://github.com/CharlesO55/GDAPDEV-Mobile_RPG"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=GDAPDEV-Mobile_RPG&theme=react&hide_border=true" alt="GDAPDEV-Mobile_RPG"></a>
+        <a href="https://github.com/CharlesO55/GGJ-2024"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=GGJ-2024&theme=react&hide_border=true" alt="GGJ-2024"></a>
       </p>
   </details>
 
@@ -22,6 +24,7 @@
     <summary><h3>Software</h3></summary>
       <p align="left">
         <a href="https://github.com/CharlesO55/GDINFMG_GenshinDatabase"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=GDINFMG_GenshinDatabase&theme=react&hide_border=true" alt="GDINFMG_GenshinDatabase"></a>
+        <a href="https://github.com/CharlesO55/GDNETWK-WikiLinks_Game"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=GDNETWK-WikiLinks_Game&theme=react&hide_border=true" alt="GDNETWK-WikiLinks_Game"></a>
       </p>
   </details>
   
