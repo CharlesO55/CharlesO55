@@ -8,6 +8,7 @@
         <a href="https://github.com/CharlesO55/Nationwide_Dashboard_WebApp"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=Nationwide_Dashboard_WebApp&theme=react&hide_border=true" alt="Nationwide_Dashboard_WebApp"></a>
         <a href="https://github.com/dovodv/Predicting-MRT-3-Ridership-through-Machine-Learning"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dovodv&repo=Predicting-MRT-3-Ridership-through-Machine-Learning&theme=react&hide_border=true" alt="Predicting-MRT-3-Ridership-through-Machine-Learning"></a>
         <a href="https://github.com/CharlesO55/VA_Casting_Recommender_System"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=VA_Casting_Recommender_System&theme=react&hide_border=true" alt="VA_Casting_Recommender_System"></a>
+        <a href="https://github.com/CharlesO55/CAPIET-Framework"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=CAPIET-Framework&theme=react&hide_border=true" alt="CAPIET-Framework"></a>
       </p>
   </details>
 
@@ -17,6 +18,7 @@
       <p align="left">
         <a href="https://github.com/CharlesO55/GDAPDEV-Mobile_RPG"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=GDAPDEV-Mobile_RPG&theme=react&hide_border=true" alt="GDAPDEV-Mobile_RPG"></a>
         <a href="https://github.com/CharlesO55/GGJ-2024"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=GGJ-2024&theme=react&hide_border=true" alt="GGJ-2024"></a>
+        <a href="https://github.com/CharlesO55/Android_Augmented_Reality"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=Android_Augmented_Reality&theme=react&hide_border=true" alt="Android_Augmented_Reality"></a>
       </p>
   </details>
 
