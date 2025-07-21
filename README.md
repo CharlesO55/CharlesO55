@@ -29,7 +29,13 @@
         <a href="https://github.com/CharlesO55/GDNETWK-WikiLinks_Game"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=GDNETWK-WikiLinks_Game&theme=react&hide_border=true" alt="GDNETWK-WikiLinks_Game"></a>
       </p>
   </details>
-  
+
+  <details>
+    <summary><h3>Technical Art</h3></summary>
+      <p align="left">
+        <a href="https://github.com/CharlesO55/Unreal_Room_Showcase"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharlesO55&repo=Unreal_Room_Showcase&theme=react&hide_border=true" alt="Unreal_Room_Showcase"></a>
+      </p>
+  </details>
 </details>
 
 <a href="https://github.com/CharlesO55?tab=repositories&"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
