@@ -7,13 +7,14 @@
 <details align="center" open>
     <summary><h1 align="center">Languages and Tools</h1></summary>
         <h3>Languages</h3>
-        <img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,python,html,css,mysql,php,markdown"/><br>
+        <img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,python,html,css,typescript,mysql,php,markdown"/><br>
         <h3>Development Software</h3>
         <p>
           <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white">
           <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff">
+          <img alt="Hugo" src="https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff">
         </p>
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,github,unity,unreal,godot,androidstudio,figma" />
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,github,unity,unreal,godot,androidstudio,figma,nextjs" />
         <h3>Libraries</h3>
           <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
           <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"> 
@@ -78,6 +79,8 @@
     <img alt="Charles' Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=CharlesO55&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&hide=contribs,prs" height="192px"/>
     <img alt="Charles's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=CharlesO55&langs_count=8&layout=compact&theme=react&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/>
 </details>
+
+<div align="center"><h1>Check my <a href="https://charleso55-portfolio.vercel.app/">Portfolio</a></h1></div>
 
 <br>
 
