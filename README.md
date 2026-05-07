@@ -51,8 +51,7 @@
             <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL Icon">
             <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase Icon">
         </p>
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,github,unity,unreal,godot,androidstudio,figma,nextjs" />
-
+        
         
 </details>
 <br>
