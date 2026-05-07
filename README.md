@@ -8,27 +8,52 @@
     <summary><h1 align="center">Languages and Tools</h1></summary>
         <h3>Languages</h3>
         <img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,python,html,css,typescript,mysql,php,markdown"/><br>
-        <h3>Development Software</h3>
+        <h3>AI Dev</h3>
         <p>
-          <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white">
-          <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff">
-          <img alt="Hugo" src="https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff">
+            <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV">
+            <img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn">
+            <img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white" alt="TensorFlow">
+            <img src="https://img.shields.io/badge/-LangGraph-blue?style=style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph">
+            <img src="https://img.shields.io/badge/Google_ADK-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK">
+            <img src="https://img.shields.io/badge/-MCP_Tools-black?style=flat&logo=anthropic&logoColor=white" alt="MCP Tools">
+        </p>
+        <h3>Data Science</h3>
+        <p>
+            <img src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" alt="Pandas Badge">
+            <img src="https://img.shields.io/badge/GeoPandas-119280?style=for-the-badge&logo=geopandas&logoColor=white" alt="GeoPandas Badge">
+            <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" alt="Matplotlib Badge">
+            <img src="https://img.shields.io/badge/Plotly-%23636EFA.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Badge">
+            <img src="https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn Badge">
+            <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff" alt="Selenium Badge">
+        </p>
+        <h3>Cloud</h3>
+        <p>
+            <img src="https://skillicons.dev/icons?i=aws" alt="AWS Icon">
+            <img src="https://skillicons.dev/icons?i=gcp" alt="GCP Icon">
+            <img src="https://skillicons.dev/icons?i=docker" alt="Docker Icon">
+        </p>
+        <h3>Frameworks</h3>
+        <p>
+            <img src="https://skillicons.dev/icons?i=flask" alt="Flask Icon">
+            <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI Icon">
+            <img src="https://skillicons.dev/icons?i=django" alt="Django Icon">
+            <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter Icon">
+            <img src="https://skillicons.dev/icons?i=react" alt="React Icon">
+            <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS Icon">
+            <img src="https://skillicons.dev/icons?i=unity" alt="Unity Icon">
+            <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Icon">
+            <img src="https://skillicons.dev/icons?i=godot" alt="Godot Icon">
+        </p>
+        <h3>Database</h3>
+        <p>
+            <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase Icon">
+            <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB Icon">
+            <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL Icon">
+            <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase Icon">
         </p>
         <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,github,unity,unreal,godot,androidstudio,figma,nextjs" />
-        <h3>Libraries</h3>
-          <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
-          <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"> 
-          <img alt="Ollama" src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000">
-          <img alt="Matplotlib" src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff">
-          <img alt="Scikit-learn" src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white">
-          <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff">
-          <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white">
-        <h3>Collaboration Tools</h3>
-          <img alt="Miro" src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff">
-          <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff">
-          <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white">
-        <h3>Artistic Tools</h3>
-          <img src="https://skillicons.dev/icons?i=blender,premiere,photoshop,audition" /><br>
+
+        
 </details>
 <br>
 
